@@ -15,7 +15,7 @@ Initially, the data should be stored on the Isilon storage system.
 ## Step 1 — Before Downloading the Data
 1. Connect to Isilon (ask Research IT):  
    ```
-   smb://t1s.gv.storageidt.prinsesmaximacentrum.nl/pmc_mpartanen
+ 
    ```
 
 ---
