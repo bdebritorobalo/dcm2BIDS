@@ -7,6 +7,8 @@ Bruno Robalo, PMC
 This script organizes MRI DICOM data received from the Bdac Committee into
 NIfTI and JSON files in a BIDS-like structure.
 
+Works internally for the data infrastruture of the PMC
+
 Initially, the data should be stored on the Isilon storage system.
 ```
 
