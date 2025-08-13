@@ -1,4 +1,4 @@
-# DICOM to BIDS Conversion Instructions
+# Pipeline to convert MRI data from DICOM to standardize BIDS structure
 # Build for internal use at PMC
 ```text
 08-02-2022
